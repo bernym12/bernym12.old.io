@@ -23,8 +23,6 @@ twitter_username: bernie_bouss
 github_username:  bernym12
 
 # Build settings
-sass:
-  sass_dir: _sass
 markdown: kramdown
 theme: minima
 plugins:
