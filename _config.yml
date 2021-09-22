@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bernie's World
+title: Welcome to Bernie's Website
 email: bernym12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Current PhD candidate at Virginia PolyTechnic University in the Computer Science department.
@@ -23,8 +23,9 @@ twitter_username: bernie_bouss
 github_username:  bernym12
 
 # Build settings
-# sass:
-#   sass_dir: _sass
+sass:
+  sass_dir: _sass
+include: ['_pages']
 markdown: kramdown
 theme: minima
 plugins:
