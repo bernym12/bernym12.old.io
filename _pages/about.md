@@ -5,7 +5,9 @@ permalink: /about/
 ---
 <img src="../media/headshot.png" alt="Bernard Moussad" style="height: 300px; width:300px;"/>
 
-I'm Bernard Moussad, a recent graduate of Auburn University and a current PhD candidate at Virginia Polytechnic Institute.
+I am originally from Russellville, Alabama, and did my undergraduate studies in Computer Engineering at Auburn University, Alabama. Currently, I am pursuing a PhD in Computer Science with a focus on  the applications of machine learning to Proteins at Virginia Tech. In my free time, I enjoy biking, cooking, playing piano, making coffee/espresso, 3D printing, and gaming. One of my most memorable experiences was going on a backpacking trip across Europe with some of my best friends, where we visited Paris, London, Rome, and Naples.
+<img src="../media/paris.jpg" alt="Bernard Moussad" style="height: 400px; width:300px;"/>
+
 ### Research Interests/Focus:
 *   Protein Folding
 *   Template Based Modeling
