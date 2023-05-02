@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome to Bernie's Website
+title: Bernard Moussad
 email: bernym12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Current PhD candidate at Virginia PolyTechnic University in the Computer Science department.
@@ -23,14 +23,14 @@ twitter_username: bernie_bouss
 github_username: bernym12
 # Resume settings
 resume_avatar: "true"
-resume_name: "Lisa M. Simpson"
-resume_title: "VP of Global Communications"
+resume_name: "Bernard R. Moussad"
+resume_title: "Reserach Assistant at Virginia Polytechnic Institute"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: "lisasimpson@youremailaddress.com"
+resume_contact_email: "bernym12@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone: "555-7334"
+resume_contact_telephone: "256-668-7571"
 resume_contact_address: "742 Evergreen Terrace, Springfield"
 
 resume_header_contact_info: "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
@@ -59,13 +59,13 @@ resume_section_associations: true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url: "https://github.com/bernym12"
-  resume_twitter_url: "http://twitter.com/jglovier"
-  resume_dribbble_url: "https://dribbble.com/jag"
+  resume_twitter_url: "http://twitter.com/bernie_bouss"
+  #resume_dribbble_url: "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url: "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url: "https://www.linkedin.com/in/bernard-moussad-5183b913a"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url: "http://joelglovier.com"
-  resume_medium_url: "https://medium.com/@jglovier"
+  #resume_website_url: "http://joelglovier.com"
+  #resume_medium_url: "https://medium.com/@jglovier"
 resume_print_social_links: true
 resume_theme: resume
 
@@ -75,7 +75,7 @@ sass:
 include: ["_pages"]
 markdown: kramdown
 theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
