@@ -17,7 +17,7 @@ permalink: /about_me/
     - PolyFoldAI: An AI assisted protein folding visualization tool 
 
 ### Experience:
-#### GTA for Computer Systems (CS3214) at VT ***(Aug. 2021 - Dec 2022) ***
+#### GTA for Computer Systems (CS3214) at VT ***(Aug. 2021 - Dec 2022)***
 - Held office hours to assist students in various projects including:
     - Customized Shells
     - Memory Allocators

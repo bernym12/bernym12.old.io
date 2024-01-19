@@ -3,3 +3,11 @@
 ---
 
 @import "base", "layout", "syntax-highlighting";
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } 
